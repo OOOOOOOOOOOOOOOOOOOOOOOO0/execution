@@ -7,7 +7,7 @@
 <summary>Age: 16</summary>
 <summary>Located: United Kingdom</summary>
 <summary>Alias: c0mpt0</summary>
-<summary>Languages: Python, Golang, vLang</summary>
+<summary>Languages: Python, GoLang, vLang</summary>
 <summary>Learning: vLang</summary>
 <summary>Discord: 937782419459829830 (https://discord.id)</summary>
 </details>
