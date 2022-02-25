@@ -4,6 +4,7 @@
 
 <details>
 <summary>About Me</summary>
+<summary>Full Name: Yaropolk Artemiev</summary>
 <summary>Age: 16</summary>
 <summary>Located: United Kingdom</summary>
 <summary>Alias: c0mpt0</summary>
