@@ -9,5 +9,5 @@
 <summary>Alias: c0mpt0</summary>
 <summary>Languages: Python, GoLang, vLang</summary>
 <summary>Learning: vLang</summary>
-<summary>Discord: 937782419459829830 (https://discord.id)</summary>
+<summary>Discord: 883772866322116660 (https://discord.id)</summary>
 </details>
